@@ -28,6 +28,19 @@ A interface foi pensada para transmitir a sensação de imersão e encantamento,
 
 As cores foram escolhidas para representar a profundidade dos rios, o brilho encantador da Iara e a conexão com a natureza brasileira.
 
+## 🔎 Referências de mercado
+
+- Steam → Plataforma global de distribuição de jogos digitais  
+- Epic Games Store → Loja com foco em jogos modernos e gratuitos  
+- Itch.io → Plataforma voltada para jogos independentes  
+
+## ♿ UX e Acessibilidade
+
+- Interface simples e intuitiva  
+- Contraste adequado para leitura  
+- Organização clara das informações  
+- Navegação fácil para diferentes usuários
+
 ## 👤 Público-alvo
 Jogadores e desenvolvedores de jogos independentes brasileiros.
 
